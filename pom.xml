@@ -90,7 +90,7 @@
         <carbon.apimgt.version.5.0.3>5.0.3</carbon.apimgt.version.5.0.3>
         <carbon.apimgt.version.6.0.4>6.0.4</carbon.apimgt.version.6.0.4>
         <carbon.apimgt.version.6.1.66>6.1.66</carbon.apimgt.version.6.1.66>
-        <carbon.appmgt.version.1.3.3>1.3.3</carbon.appmgt.version.1.3.3>
+        <carbon.appmgt.version.1.4.19>1.4.19</carbon.appmgt.version.1.4.19>
         <carbon.business.process.version.4.4.0>4.4.0</carbon.business.process.version.4.4.0>
         <carbon.business.process.version.4.4.3>4.4.3</carbon.business.process.version.4.4.3>
         <carbon.business.process.version.4.4.4>4.4.4</carbon.business.process.version.4.4.4>
@@ -1483,28 +1483,28 @@
                                     org.wso2.carbon.apimgt:org.wso2.carbon.forum.server.feature:${carbon.apimgt.version.6.1.66}
                                 </featureArtifactDef>
                                 <featureArtifactDef>
-                                    org.wso2.carbon.appmgt:org.wso2.carbon.appmgt.core.feature:${carbon.appmgt.version.1.3.3}
+                                    org.wso2.carbon.appmgt:org.wso2.carbon.appmgt.core.feature:${carbon.appmgt.version.1.4.19}
                                 </featureArtifactDef>
                                 <featureArtifactDef>
-                                    org.wso2.carbon.appmgt:org.wso2.carbon.appmgt.feature:${carbon.appmgt.version.1.3.3}
+                                    org.wso2.carbon.appmgt:org.wso2.carbon.appmgt.feature:${carbon.appmgt.version.1.4.19}
                                 </featureArtifactDef>
                                 <featureArtifactDef>
-                                    org.wso2.carbon.appmgt:org.wso2.carbon.appmgt.gateway.feature:${carbon.appmgt.version.1.3.3}
+                                    org.wso2.carbon.appmgt:org.wso2.carbon.appmgt.gateway.feature:${carbon.appmgt.version.1.4.19}
                                 </featureArtifactDef>
                                 <featureArtifactDef>
-                                    org.wso2.carbon.appmgt:org.wso2.carbon.appmgt.mdm.wso2emm.feature:${carbon.appmgt.version.1.3.3}
+                                    org.wso2.carbon.appmgt:org.wso2.carbon.appmgt.mdm.wso2emm.feature:${carbon.appmgt.version.1.4.19}
                                 </featureArtifactDef>
                                 <featureArtifactDef>
-                                    org.wso2.carbon.appmgt:org.wso2.carbon.appmgt.mobile.feature:${carbon.appmgt.version.1.3.3}
+                                    org.wso2.carbon.appmgt:org.wso2.carbon.appmgt.mobile.feature:${carbon.appmgt.version.1.4.19}
                                 </featureArtifactDef>
                                 <featureArtifactDef>
-                                    org.wso2.carbon.appmgt:org.wso2.carbon.appmgt.publisher.feature:${carbon.appmgt.version.1.3.3}
+                                    org.wso2.carbon.appmgt:org.wso2.carbon.appmgt.publisher.feature:${carbon.appmgt.version.1.4.19}
                                 </featureArtifactDef>
                                 <featureArtifactDef>
-                                    org.wso2.carbon.appmgt:org.wso2.carbon.appmgt.services.api.feature:${carbon.appmgt.version.1.3.3}
+                                    org.wso2.carbon.appmgt:org.wso2.carbon.appmgt.services.api.feature:${carbon.appmgt.version.1.4.19}
                                 </featureArtifactDef>
                                 <featureArtifactDef>
-                                    org.wso2.carbon.appmgt:org.wso2.carbon.appmgt.store.feature:${carbon.appmgt.version.1.3.3}
+                                    org.wso2.carbon.appmgt:org.wso2.carbon.appmgt.store.feature:${carbon.appmgt.version.1.4.19}
                                 </featureArtifactDef>
 
                                 <featureArtifactDef>
@@ -4804,19 +4804,19 @@
                                 </featureArtifactDef>
 
                                 <featureArtifactDef>
-                                    org.wso2.carbon.appmgt:org.wso2.appmgt.gateway.manager.category.feature:${carbon.appmgt.version.1.3.3}
+                                    org.wso2.carbon.appmgt:org.wso2.appmgt.gateway.manager.category.feature:${carbon.appmgt.version.1.4.19}
                                 </featureArtifactDef>
                                 <featureArtifactDef>
-                                    org.wso2.carbon.appmgt:org.wso2.appmgt.gateway.worker.category.feature:${carbon.appmgt.version.1.3.3}
+                                    org.wso2.carbon.appmgt:org.wso2.appmgt.gateway.worker.category.feature:${carbon.appmgt.version.1.4.19}
                                 </featureArtifactDef>
                                 <featureArtifactDef>
-                                    org.wso2.carbon.appmgt:org.wso2.appmgt.idp.category.feature:${carbon.appmgt.version.1.3.3}
+                                    org.wso2.carbon.appmgt:org.wso2.appmgt.idp.category.feature:${carbon.appmgt.version.1.4.19}
                                 </featureArtifactDef>
                                 <featureArtifactDef>
-                                    org.wso2.carbon.appmgt:org.wso2.appmgt.publisher.category.feature:${carbon.appmgt.version.1.3.3}
+                                    org.wso2.carbon.appmgt:org.wso2.appmgt.publisher.category.feature:${carbon.appmgt.version.1.4.19}
                                 </featureArtifactDef>
                                 <featureArtifactDef>
-                                    org.wso2.carbon.appmgt:org.wso2.appmgt.store.category.feature:${carbon.appmgt.version.1.3.3}
+                                    org.wso2.carbon.appmgt:org.wso2.appmgt.store.category.feature:${carbon.appmgt.version.1.4.19}
                                 </featureArtifactDef>
 
                                 <featureArtifactDef>
@@ -5062,7 +5062,7 @@
                                     <features>
                                         <catFeature>
                                             <id>org.wso2.appmgt.gateway.manager.category</id>
-                                            <version>${carbon.appmgt.version.1.3.3}</version>
+                                            <version>${carbon.appmgt.version.1.4.19}</version>
                                         </catFeature>
                                     </features>
                                 </category>
@@ -5076,7 +5076,7 @@
                                     <features>
                                         <catFeature>
                                             <id>org.wso2.appmgt.gateway.worker.category</id>
-                                            <version>${carbon.appmgt.version.1.3.3}</version>
+                                            <version>${carbon.appmgt.version.1.4.19}</version>
                                         </catFeature>
                                     </features>
                                 </category>
@@ -5089,7 +5089,7 @@
                                     <features>
                                         <catFeature>
                                             <id>org.wso2.appmgt.idp.category</id>
-                                            <version>${carbon.appmgt.version.1.3.3}</version>
+                                            <version>${carbon.appmgt.version.1.4.19}</version>
                                         </catFeature>
                                     </features>
                                 </category>
@@ -5102,7 +5102,7 @@
                                     <features>
                                         <catFeature>
                                             <id>org.wso2.appmgt.publisher.category</id>
-                                            <version>${carbon.appmgt.version.1.3.3}</version>
+                                            <version>${carbon.appmgt.version.1.4.19}</version>
                                         </catFeature>
                                     </features>
                                 </category>
@@ -5115,7 +5115,7 @@
                                     <features>
                                         <catFeature>
                                             <id>org.wso2.appmgt.store.category</id>
-                                            <version>${carbon.appmgt.version.1.3.3}</version>
+                                            <version>${carbon.appmgt.version.1.4.19}</version>
                                         </catFeature>
                                     </features>
                                 </category>
